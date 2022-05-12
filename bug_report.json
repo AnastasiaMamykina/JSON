@@ -1,0 +1,22 @@
+{ 
+    "ID": "WSVELC20080625000001",
+    "Brief description" : "The application crashed when pressing the Save button while creating a new user, therefore it is not possible to create a new user in the application",
+    "Project" : "Feelvordy",
+    "Creation date" : "05.01.2022",
+    "Version" : "IOS V14.7.1",
+    "Bug severity" : "blocker",
+    "Bug priority" : "high",
+    "Status" : "open",
+    "Author" : "Tarasiuk Alesia",
+    "Performer" : "Timofeev Alexei",
+    "Steps to play" : [
+        "Login to the application",
+        "Go to menu Users > New user",
+        "Fill in all user input fields",
+        "Click the Save button",
+        "An error page appears  Failed to insert values ​​of ORA1090 exception"
+    ],
+    "Expected Result" : "When you click the save button, you should see a message that the registration was successful",
+    "Actual Result" : "Application crashes after clicking save when creating a new user",
+    "Additions" : "screenshot"
+}
