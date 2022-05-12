@@ -1,0 +1,13 @@
+{ 
+    "API Testing with Postman ": "JS, API autotests",
+    "Python" : "creating a client server application",
+    "Postgres database" : "installation, configuration and use",
+    "SQL Basics" : "create, Delete, Drop, Insert Into, Select, From, Where, Join",
+    "Linux command line (terminal)" : "copying, creating, viewing, moving files on servers without a graphical interface",
+    "ADB" : "android device management",
+    "Web Browser Dev Tools" : "Google Chrome, FireFox",
+    "bash scripting basics" : "automation of routine tasks on the server",
+    "VPN" : "how it works, why you need it, how to use it, tool options",
+    "Basic theory" : "what is testing, bug reports, documentation, types, methods, areas of testing",
+    "Scrum" : "Development methodology"
+}
