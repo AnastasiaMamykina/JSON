@@ -1,5 +1,7 @@
-{
-   "Person1":"ANASTASIA",
-   "PERSON2":"ANA",
-   "Person3":"KATE"
+{ 
+    "name": "Anastasia",
+    "surname" : "Mamykina",
+    "age" : 31,
+    "pets" : "1 dog",
+    "the salary" : "2000 $"
 }
